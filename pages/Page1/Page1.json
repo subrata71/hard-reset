@@ -6,7 +6,7 @@
       {
         "viewMode": false,
         "dsl": {
-          "widgetName": "MainContainer",
+          "widgetName": "MainContainer"
           "backgroundColor": "none",
           "rightColumn": 4896,
           "snapColumns": 64,
